@@ -1,7 +1,7 @@
 import logo from './logo.png';
 import './App.css';
 import Hello from './Hello';  // import Hello component
-import JSXExamples from './Components/JSXExamples'; 
+import JSXExamples from './components/JSXExamples'; 
 
 function App() { 
   return (
